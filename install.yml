@@ -1,0 +1,9 @@
+---
+- name: Nothing should happen here
+  hosts: localhost
+  gather_facts: no
+  connection: local
+
+  tasks:
+    - debug:
+        msg: "Heavy provessing..."

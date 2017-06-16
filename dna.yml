@@ -1,0 +1,11 @@
+---
+  name: "osxsay"
+  type: "tts"
+  author: "https://github.com/aleneum/"
+
+  kalliope_supported_version:
+    - 0.4
+
+  tags:
+    - "tts engine"
+    - "osx"
